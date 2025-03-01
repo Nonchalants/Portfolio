@@ -13,5 +13,5 @@ I am also a creative person who likes trying new hobbies like drawing, writing, 
 - **Junior High School:** Graduated at Doña Assuncion Lee Integrated School  
 - **Elementary:** Graduated at Paralayunan Elementary School
 # My Project
-Midterm Lab Task 1:
+Midterm Lab Task 1:  
 Midterm Lab Task 2:
