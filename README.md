@@ -9,8 +9,7 @@ I am a good listener and always ready to help others when they need support. I e
 I believe that hard work and patience are the keys to success in life. I always respect others' opinions and understand that everyone has different ideas. 
 I am also a creative person who likes trying new hobbies like drawing, writing, or exploring technology. I stay motivated by setting goals and putting effort into achieving them.
 # Education
-•Senior High School: Graduated at Saint Anthony College of Technology (ICT strand)
-•Junior High School: Graduated at Doña Assuncion Lee Integrated School
-•Elementary: Graduated at Paralayunan Elementary School
-
+- **Senior High School:** Graduated at Saint Anthony College of Technology (ICT strand)  
+- **Junior High School:** Graduated at Doña Assuncion Lee Integrated School  
+- **Elementary:** Graduated at Paralayunan Elementary School
 # My Project
