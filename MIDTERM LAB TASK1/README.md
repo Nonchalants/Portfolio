@@ -11,3 +11,7 @@ We are provided with flat data from an Excel file (see raw file) and tasked to p
 - Split tables using Second Normal Form (2NF)  
 - Applied Third Normal Form (3NF)  
 - Converted normalized tables into a Physical Data Model  
+### Step 3: Here's the screenshot of my output before I started data cleaning  
+(See screenshot)  
+
+![Screenshot](MIDTERM%20LAB%20TASK1/RAw%20data.png)
