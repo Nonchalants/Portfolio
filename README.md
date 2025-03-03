@@ -6,8 +6,7 @@ I am a friendly and kind person who loves to learn new things. I enjoy spending 
 I always do my best in everything I do and try to stay positive in every situation. I believe that respect and kindness are important in life.
 I am also a dedicated person who is willing to learn and improve. I enjoy simple things and appreciate every little blessing.
 I am a good listener and always ready to help others when they need support. I enjoy discovering new skills that can help me grow as a person.
-I believe that hard work and patience are the keys to success in life. I always respect others' opinions and understand that everyone has different ideas. 
-I am also a creative person who likes trying new hobbies like drawing, writing, or exploring technology. I stay motivated by setting goals and putting effort into achieving them.
+I believe that hard work and patience are the keys to success in life. 
 # Education
 - **Senior High School:** Graduated at Saint Anthony College of Technology (ICT strand)  
 - **Junior High School:** Graduated at Doña Assuncion Lee Integrated School  
