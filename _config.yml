@@ -16,5 +16,6 @@ show_downloads: true
 github:
   is_project_page: true
 
-include: 
+include:
   - assets/style.css
+
