@@ -12,5 +12,5 @@ I believe that hard work and patience are the keys to success in life.
 - **Junior High School:** Graduated at Doña Assuncion Lee Integrated School  
 - **Elementary:** Graduated at Paralayunan Elementary School
 # My Project
-Midterm Lab Task 1:[MIDTERM LAB TASK1](MIDTERM%20LAB%20TASK1/)
+Midterm Lab Task 1:[MIDTERM LAB TASK1](MIDTERM%20LAB%20TASK1/)  
 Midterm Lab Task 2:
