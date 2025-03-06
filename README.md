@@ -23,13 +23,16 @@ I am always ready to **listen, support**, and discover new skills that help me g
 
 ---
 
-## 💻 My Projects
-### Midterm Projects
-**Midterm Lab Task 1:** 📄 [Data Cleaning and Preparation using Excel](MIDTERM%20LAB%20TASK1/)  
-**Midterm Lab Task 2:** Coming Soon... 🔥    
+   ## 💻 My Projects
+   **Midterm Lab Task 1:** 📄 Data Cleaning and Preparation using Excel  
+   **Midterm Lab Task 2:** Coming Soon... 🔥  
+  </div>
 
-<img src="images/thoughtworks-gif_dribbble.gif" alt="Typing Man" style="width: 50%; border: 3px solid black; border-radius: 10px;">
+  <div style="flex: 1; text-align: center;">
 
+   <img src="images/thoughtworks-gif_dribbble.gif" alt="Typing Man" style="width: 300px; border: 3px solid black; border-radius: 10px;">
+  </div>
+</div>
 ---
 
 ## 📌 Skills
