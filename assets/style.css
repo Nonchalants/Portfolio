@@ -1,25 +1,28 @@
 body {
-  background-color: black; /* Black Background */
-  color: white; /* White Text */
-  text-align: center;
+  background-color: #000; /* Black background */
+  color: #fff; /* White text */
   font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+img {
+  border-radius: 50%; /* Circle Image */
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+  margin: 20px auto;
+  border: 3px solid #fff; /* White Circle Border */
+}
+
+h1, h2, h3 {
+  color: #fff;
 }
 
 a {
-  color: lightgray; /* Link Color */
+  color: #aaa; /* Grey Links */
   text-decoration: none;
 }
 
 a:hover {
   text-decoration: underline;
-  color: white; 
 }
-
-img {
-  border-radius: 50%; /* Circle Image */
-  width: 200px; 
-  height: 200px;
-  object-fit: cover;
-  border: 3px solid white;
-}
-
