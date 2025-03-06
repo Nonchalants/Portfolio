@@ -13,8 +13,13 @@ skills:
   - Adaptability 🔄
 
 
+show_downloads: false
 github:
   is_project_page: true
 
 include:
   - assets/style.css
+style: |
+  .github-button {
+    display: none;
+  }
