@@ -17,4 +17,6 @@ We are provided with flat data from an Excel file (see raw file) and tasked to p
 ![Screenshot](images/RAw%20data.png)
 
 ### Step 4: Screenshot of My Output After Data Cleaning
+![Screenshot](images/75a65eca-52a4-4dcc-8bdc-534119cfb53a.jpg)
+
 ### Here's the Physical Representation of the Data Model
