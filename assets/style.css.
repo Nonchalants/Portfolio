@@ -1,25 +1,25 @@
 body {
-  background-color: #000; /* Black Background */
-  color: #fff; /* White Text */
+  background-color: black; /* Black background */
+  color: white; /* White text */
   font-family: Arial, sans-serif;
   text-align: center;
 }
 
 img {
-  border-radius: 50%;
-  width: 200px; /* Adjust size */
+  border-radius: 50%; /* Circle logo */
+  width: 200px;
   height: 200px;
   object-fit: cover;
   margin: 20px auto;
-  border: 3px solid #fff; /* White Border */
+  border: 3px solid white; /* Circle border */
 }
 
 h1, h2, h3 {
-  color: #fff;
+  color: white;
 }
 
 a {
-  color: #ccc; /* Grey Links */
+  color: grey;
   text-decoration: none;
 }
 
