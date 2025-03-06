@@ -17,11 +17,11 @@ I am always ready to **listen, support**, and discover new skills that help me g
 ---
 
 ## 🎓 Education
-| Level               | School Name                              |
-|--------------------|-------------------------------------------|
+| Level               | School Name                                      |
+|-------------------|------------------------------------------------|
 | Senior High School | Saint Anthony College of Technology (ICT Strand) ✅ |
-| Junior High School  | Doña Assuncion Lee Integrated School      |
-| Elementary         | Paralayunan Elementary School            |
+| Junior High School  | Doña Assuncion Lee Integrated School             |
+| Elementary         | Paralayunan Elementary School                    |
 
 ---
 
@@ -30,8 +30,7 @@ I am always ready to **listen, support**, and discover new skills that help me g
 | Task Name           | Folder Link                                              |
 |-------------------|-------------------------------------------------------|
 | Midterm Lab Task 1 | 📄 [Data Cleaning and Preparation using Excel](MIDTERM%20LAB%20TASK1/) |
-| Midterm Lab Task 2 | Coming Soon... 🔥                                       |
-
+| Midterm Lab Task 2 | Coming Soon... 🔥          
 ---
 
 ## 📌 Skills
