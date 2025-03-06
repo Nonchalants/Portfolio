@@ -1,4 +1,5 @@
 # EDM-Portfolio - RIZO JOSE 🎯
+
 Welcome to my **Enterprise Data Management Portfolio**! This portfolio contains my EDM lab exercises, showcasing my skills in organizing, managing, and handling data based on what I learned in class. It reflects my progress and understanding of the subject.
 
 ---
@@ -16,20 +17,20 @@ I am always ready to **listen, support**, and discover new skills that help me g
 ---
 
 ## 🎓 Education
-| Level                | School Name                              |
+| Level               | School Name                              |
 |--------------------|-------------------------------------------|
 | Senior High School | Saint Anthony College of Technology (ICT Strand) ✅ |
 | Junior High School  | Doña Assuncion Lee Integrated School      |
-| Elementary        | Paralayunan Elementary School            |
+| Elementary         | Paralayunan Elementary School            |
 
 ---
 
 ## 💻 My Projects
 ### Midterm Projects
-| Task Name                                 | Folder Link                                              |
-|---------------------------------------------|-------------------------------------------------------|
-| Midterm Lab Task 1                         | 📄 [Data Cleaning and Preparation using Excel](MIDTERM%20LAB%20TASK1/) |
-| Midterm Lab Task 2                         | Coming Soon... 🔥                                       |
+| Task Name           | Folder Link                                              |
+|-------------------|-------------------------------------------------------|
+| Midterm Lab Task 1 | 📄 [Data Cleaning and Preparation using Excel](MIDTERM%20LAB%20TASK1/) |
+| Midterm Lab Task 2 | Coming Soon... 🔥                                       |
 
 ---
 
@@ -38,7 +39,8 @@ I am always ready to **listen, support**, and discover new skills that help me g
 - Positive Attitude 😊
 - Good Listener 👂
 - Patience 🕰️
-- Adaptability 🔄  
+- Adaptability 🔄
+
 ---
 
 ## 💪 Let's Connect!
@@ -48,4 +50,22 @@ I am always ready to **listen, support**, and discover new skills that help me g
 
 ---
 
-Thank you for visiting my portfolio! 😊
+## Configurations
+```yaml
+title: EDM-Portfolio - Rizo Jose
+description: "Enterprise Data Management Portfolio"
+author: Rizo Jose
+theme: jekyll-theme-cayman # You can choose other themes like jekyll-theme-minimal or jekyll-theme-midnight
+
+logo: images/479699544_3975671589340061_694995400941422409_n.jpg
+
+skills:
+  - Time Management ⏰
+  - Positive Attitude 😊
+  - Good Listener 👂
+  - Patience 🕰️
+  - Adaptability 🔄
+
+show_downloads: true
+github:
+  is_project_page: true
