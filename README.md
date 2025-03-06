@@ -50,7 +50,7 @@ I am always ready to **listen, support**, and discover new skills that help me g
 title: EDM-Portfolio - Rizo Jose
 description: "Enterprise Data Management Portfolio"
 author: Rizo Jose
-theme: jekyll-theme-cayman # You can choose other themes like jekyll-theme-minimal or jekyll-theme-midnight
+theme: jekyll-theme-midnight # Black and white theme
 
 logo: images/479699544_3975671589340061_694995400941422409_n.jpg
 
