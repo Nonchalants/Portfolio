@@ -30,7 +30,8 @@ I am always ready to **listen, support**, and discover new skills that help me g
 <div style="flex: 1; text-align: left;">
 <img src="images/thoughtworks-gif_dribbble.gif" alt="Typing Man" style="width: 300px; border: 3px solid black; border-radius: 10px;">  
    
----  
+  
+--- 
 
 ## 📌 Skills
 - Time Management ⏰  
