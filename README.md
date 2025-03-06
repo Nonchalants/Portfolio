@@ -34,12 +34,11 @@ I am always ready to **listen, support**, and discover new skills that help me g
 ---
 
 ## 📌 Skills
-- Data Cleaning ✅
-- Data Preparation 🔥
-- Conditional Formatting
-- Pivot Tables
-- Data Validation
-
+- Time Management ⏰
+- Positive Attitude 😊
+- Good Listener 👂
+- Patience 🕰️
+- Adaptability 🔄  
 ---
 
 ## 💪 Let's Connect!
