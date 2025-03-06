@@ -26,7 +26,10 @@ I am always ready to **listen, support**, and discover new skills that help me g
 ## 💻 My Projects
 ### Midterm Projects
 **Midterm Lab Task 1:** 📄 [Data Cleaning and Preparation using Excel](MIDTERM%20LAB%20TASK1/)  
-**Midterm Lab Task 2:** Coming Soon... 🔥  
+**Midterm Lab Task 2:** Coming Soon... 🔥    
+
+<img src="images/thoughtworks-gif_dribbble.gif" alt="Typing Man" style="width: 50%; border: 3px solid black; border-radius: 10px;">
+
 ---
 
 ## 📌 Skills
@@ -37,8 +40,6 @@ I am always ready to **listen, support**, and discover new skills that help me g
 - Adaptability 🔄
 
 ---
-
-images/thoughtworks-gif_dribbble.gif
 
 ## 💪 Let's Connect!
 📧 Email: crizojose24-0501@cca.edu.ph  
