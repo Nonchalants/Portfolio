@@ -45,22 +45,3 @@ I am always ready to **listen, support**, and discover new skills that help me g
 
 ---
 
-## Configurations
-```yaml
-title: EDM-Portfolio - Rizo Jose
-description: "Enterprise Data Management Portfolio"
-author: Rizo Jose
-theme: jekyll-theme-midnight # Black and white theme
-
-logo: images/479699544_3975671589340061_694995400941422409_n.jpg
-
-skills:
-  - Time Management ⏰
-  - Positive Attitude 😊
-  - Good Listener 👂
-  - Patience 🕰️
-  - Adaptability 🔄
-
-show_downloads: true
-github:
-  is_project_page: true
