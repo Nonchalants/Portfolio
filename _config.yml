@@ -1,7 +1,7 @@
 title: EDM-Portfolio - Rizo Jose
 description: "Enterprise Data Management Portfolio"
 author: Rizo Jose
-theme: jekyll-theme-minimal # Black and white theme
+theme: jekyll-theme-minimal 
 
 logo: images/479699544_3975671589340061_694995400941422409_n.jpg
 
@@ -12,10 +12,9 @@ skills:
   - Patience 🕰️
   - Adaptability 🔄
 
-show_downloads: false
+
 github:
   is_project_page: true
 
 include:
   - assets/style.css
-
