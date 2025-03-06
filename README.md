@@ -1,4 +1,4 @@
-# Portfolio
+# EDM-Portfolio - RIZO JOSE 
 This portfolio contains my Enterprise Data Management lab exercises. It shows my skills in organizing, managing, and handling data based on what I learned in class. It reflects my progress and understanding of the subject.
 
 # About me
@@ -12,5 +12,5 @@ I believe that hard work and patience are the keys to success in life.
 - **Junior High School:** Graduated at Doña Assuncion Lee Integrated School  
 - **Elementary:** Graduated at Paralayunan Elementary School
 # My Project
-Midterm Lab Task 1:  
+Midterm Lab Task 1:  [Folder Name](MIDTERM LAB TASK1)
 Midterm Lab Task 2:
