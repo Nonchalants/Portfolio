@@ -38,6 +38,8 @@ I am always ready to **listen, support**, and discover new skills that help me g
 
 ---
 
+images/thoughtworks-gif_dribbble.gif
+
 ## 💪 Let's Connect!
 📧 Email: crizojose24-0501@cca.edu.ph  
 🔗 GitHub: https://nonchalants.github.io/Portfolio/  
