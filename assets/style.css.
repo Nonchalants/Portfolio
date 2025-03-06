@@ -1,1 +1,29 @@
+body {
+  background-color: #000; /* Black Background */
+  color: #fff; /* White Text */
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+img {
+  border-radius: 50%;
+  width: 200px; /* Adjust size */
+  height: 200px;
+  object-fit: cover;
+  margin: 20px auto;
+  border: 3px solid #fff; /* White Border */
+}
+
+h1, h2, h3 {
+  color: #fff;
+}
+
+a {
+  color: #ccc; /* Grey Links */
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
 
