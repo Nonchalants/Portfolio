@@ -32,7 +32,6 @@ I am always ready to **listen, support**, and discover new skills that help me g
    
 ---  
 
-
 ## 📌 Skills
 - Time Management ⏰  
 - Positive Attitude 😊  
