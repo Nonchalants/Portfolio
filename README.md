@@ -41,7 +41,7 @@ I am always ready to **listen, support**, and discover new skills that help me g
 ## 💪 Let's Connect!
 📧 Email: crizojose24-0501@cca.edu.ph  
 🔗 GitHub: [github.com/rizojose](https://github.com/rizojose)  
-📱 Facebook: [[Rizo Jose](https://www.facebook.com/rizojose) ](https://www.facebook.com/rizojose.1214) 
+📱 Facebook: [[Rizo Jose](https://www.facebook.com/rizojose.1214) ]
 
 ---
 
