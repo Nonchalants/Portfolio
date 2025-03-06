@@ -1,6 +1,18 @@
-title: Shaw Table
+title: EDM-Portfolio - Rizo Jose
 logo: images/479699544_3975671589340061_694995400941422409_n.jpg
-show_download: true
-theme: jekyll-theme-minimal
+description: "Enterprise Data Management Portfolio"
+author: Rizo Jose
+theme: jekyll-theme-cayman # You can choose other themes like jekyll-theme-minimal or jekyll-theme-midnight
+
+skills:
+  - Time Management ⏰
+  - Positive Attitude 😊
+  - Good Listener 👂
+  - Patience 🕰️
+  - Adaptability 🔄
+
+show_downloads: true
+github:
+  is_project_page: true
 
 
