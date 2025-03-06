@@ -1,16 +1,52 @@
-# EDM-Portfolio - RIZO JOSE 
-This portfolio contains my Enterprise Data Management lab exercises. It shows my skills in organizing, managing, and handling data based on what I learned in class. It reflects my progress and understanding of the subject.
+# EDM-Portfolio - RIZO JOSE 🎯
+Welcome to my **Enterprise Data Management Portfolio**! This portfolio contains my EDM lab exercises, showcasing my skills in organizing, managing, and handling data based on what I learned in class. It reflects my progress and understanding of the subject.
 
-# About me
-I am a friendly and kind person who loves to learn new things. I enjoy spending time with my family and friends. I like meeting new people and making new friends.
-I always do my best in everything I do and try to stay positive in every situation. I believe that respect and kindness are important in life.
-I am also a dedicated person who is willing to learn and improve. I enjoy simple things and appreciate every little blessing.
-I am a good listener and always ready to help others when they need support. I enjoy discovering new skills that can help me grow as a person.
-I believe that hard work and patience are the keys to success in life. 
-# Education
-- **Senior High School:** Graduated at Saint Anthony College of Technology (ICT strand)  
-- **Junior High School:** Graduated at Doña Assuncion Lee Integrated School  
-- **Elementary:** Graduated at Paralayunan Elementary School
-# My Project
-Midterm Lab Task 1:[Data Cleaning and Preparation using Excel](MIDTERM%20LAB%20TASK1/)  
-Midterm Lab Task 2:
+---
+
+## 🌟 About Me
+I am a friendly and kind person who loves to learn new things. I enjoy spending time with my family and friends. Meeting new people and making new friends brings me joy. 
+
+### What I Believe In:
+- Respect and kindness are important in life. 🤝
+- Hard work and patience are the keys to success. 💪
+- Every little blessing counts. 🙏
+
+I am always ready to **listen, support**, and discover new skills that help me grow as a person.
+
+---
+
+## 🎓 Education
+| Level                | School Name                              |
+|--------------------|-------------------------------------------|
+| Senior High School | Saint Anthony College of Technology (ICT Strand) ✅ |
+| Junior High School  | Doña Assuncion Lee Integrated School      |
+| Elementary        | Paralayunan Elementary School            |
+
+---
+
+## 💻 My Projects
+### Midterm Projects
+| Task Name                                 | Folder Link                                              |
+|---------------------------------------------|-------------------------------------------------------|
+| Midterm Lab Task 1                         | 📄 [Data Cleaning and Preparation using Excel](MIDTERM%20LAB%20TASK1/) |
+| Midterm Lab Task 2                         | Coming Soon... 🔥                                       |
+
+---
+
+## 📌 Skills
+- Data Cleaning ✅
+- Data Preparation 🔥
+- Conditional Formatting
+- Pivot Tables
+- Data Validation
+
+---
+
+## 💪 Let's Connect!
+📧 Email: rizojose@example.com  
+🔗 GitHub: [github.com/rizojose](https://github.com/rizojose)  
+📱 Facebook: [Rizo Jose](https://www.facebook.com/rizojose)  
+
+---
+
+Thank you for visiting my portfolio! 😊
