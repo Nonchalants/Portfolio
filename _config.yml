@@ -18,7 +18,7 @@ github:
   is_project_page: true
 
 include:
-  - assets/style.css
+  - assets
 style: |
   .github-button {
     display: none;
