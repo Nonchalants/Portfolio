@@ -82,13 +82,45 @@ I am always ready to **listen, support**, and discover new skills that help me g
 
 ---
 
-## 💪 Let's Connect!
-📧 Email:[crizojose24-0501](crizojose24-0501@cca.edu.ph)  
-🔗 GitHub:[Portfolio](https://nonchalants.github.io/Portfolio/)  
-📱 Facebook:(https://www.facebook.com/rizojose.1214).    
-🎼 Tiktok: (https://www.tiktok.com/@shinra_14?_t=ZS-8uUGGG9p0XI&_r=1). 
-📷 Instagram:     
-▶️ Telegram:    
----
+## 📞 Click Below to Connect with Me!  
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="mailto:crizojose24-0501@cca.edu.ph" target="_blank">
+        <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="40" height="40"/><br>Email
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Nonchalants" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/><br>GitHub
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.facebook.com/rizojose.1214" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="Facebook" width="40" height="40"/><br>Facebook
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.tiktok.com/@shinra_14?_t=ZS-8uUGGG9p0XI&_r=1" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/en/a/a9/TikTok_logo.svg" alt="TikTok" width="40" height="40"/><br>TikTok
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.instagram.com" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="40" height="40"/><br>Instagram
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://telegram.org" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram" width="40" height="40"/><br>Telegram
+      </a>
+    </td>
+  </tr>
+</table>
+
+
+
+
 
 
