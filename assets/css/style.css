@@ -1,1 +1,23 @@
 
+.site-header {
+    background-color: black;
+    padding: 20px;
+}
+
+
+.site-footer {
+    background-color: black;
+    padding: 20px;
+    color: white; 
+    text-align: center;
+}
+
+
+.site-logo img {
+    width: 100px; 
+    border-radius: 50%;
+    position: absolute;
+    top: 10px;
+    left: 20px;
+}
+
