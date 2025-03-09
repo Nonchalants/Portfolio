@@ -95,9 +95,10 @@ I am always ready to **listen, support**, and discover new skills that help me g
 
 ## 📞 Click Below to Connect with Me!   
 
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=crizojose24-0501@cca.edu.ph" target="_blank">
-   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40"/>
-</a>
+<p align="left">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=crizojose24-0501@cca.edu.ph" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40"/>
+  </a>
   &nbsp;&nbsp;
   <a href="https://www.facebook.com/rizojose.1214" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="40"/>
@@ -115,6 +116,7 @@ I am always ready to **listen, support**, and discover new skills that help me g
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" height="40"/>
   </a>
 </p>
+
 
 
 
