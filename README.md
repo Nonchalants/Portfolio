@@ -92,11 +92,6 @@ I am always ready to **listen, support**, and discover new skills that help me g
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/Nonchalants" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/><br>GitHub
-      </a>
-    </td>
-    <td align="center">
       <a href="https://www.facebook.com/rizojose.1214" target="_blank">
         <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="Facebook" width="40" height="40"/><br>Facebook
       </a>
