@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=EDM-Portfolio RIZO JOSE &animation=fadeIn&type=waving&color=black&fontColor=white&height=100"/>
+  <img src="https://capsule-render.vercel.app/api?text=EDM-Portfolio%20RIZO%20JOSE&animation=fadeIn&type=waving&color=black&fontColor=black&height=80&width=100%"/>
 </p>
-
 
 Welcome to my **Enterprise Data Management Portfolio**! This portfolio contains my EDM lab exercises, showcasing my skills in organizing, managing, and handling data based on what I learned in class. It reflects my progress and understanding of the subject.
 
