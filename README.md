@@ -25,42 +25,19 @@ I am always ready to **listen, support**, and discover new skills that help me g
 
 ---  
 
-## 💻 Languages I used before 
+## 📜 Languages I used before 
+<p align="left"> 
+<img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" height="50"/>  
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" height="50"/> 
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" height="50"/>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" height="50"/>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/VBA-%23217346.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white" height="50"/>  
 
-<table style="border-collapse: collapse; border: none;">
-  <tr>
-    <td align="center" style="border: none;">
-      <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-        <br>C
-      </a>
-    </td>
-    <td align="center" style="border: none;">
-      <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
-        <br>HTML
-      </a>
-    </td>
-    <td align="center" style="border: none;">
-      <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-        <br>MySQL
-      </a>
-    </td>
-    <td align="center" style="border: none;">
-      <a href="https://www.python.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-        <br>Python
-      </a>
-    </td>
-    <td align="center" style="border: none;">
-      <a href="https://en.wikipedia.org/wiki/Visual_Basic_for_Applications" target="_blank" rel="noreferrer">
-        <img src="https://github.com/Nonchalants/Portfolio/blob/main/images/file-type-vba-icon-2048x1143-g79vnax4.png?raw=true" alt="VBA" width="40" height="40"/>
-        <br>VBA
-      </a>
-    </td>
-  </tr>
-</table>
+</p>
 
 ---
 
