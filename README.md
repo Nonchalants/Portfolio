@@ -96,8 +96,8 @@ I am always ready to **listen, support**, and discover new skills that help me g
 ## 📞 Click Below to Connect with Me!   
 
 <p align="left">
-<a href="mailto:crizojose24-0501@cca.edu.ph" target="_blank">
-   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40"/>
+  <a href="mailto:crizojose24-0501@cca.edu.ph">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://www.facebook.com/rizojose.1214" target="_blank">
@@ -107,7 +107,7 @@ I am always ready to **listen, support**, and discover new skills that help me g
   <a href="https://www.tiktok.com/@shinra_14?_t=ZS-8uUGGG9p0XI&_r=1" target="_blank">
     <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" height="40"/>
   </a>
-   &nbsp;&nbsp;
+  &nbsp;&nbsp;
   <a href="https://www.instagram.com/christianlee1428/?igsh=Znc1YTdzbW5od2Ix&fbclid=IwY2xjawI6Um9leHRuA2FlbQIxMAABHd4ESySYrrSuN52qp99j1wjiRv9GpYo8zdQUhqjTRamJCSlp929KVEiapg_aem_uM7t8z97hkQFh53zsaY2Ow" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="40"/>
   </a>
@@ -116,6 +116,7 @@ I am always ready to **listen, support**, and discover new skills that help me g
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" height="40"/>
   </a>
 </p>
+
 
 
 
