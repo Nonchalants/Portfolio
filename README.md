@@ -96,8 +96,8 @@ I am always ready to **listen, support**, and discover new skills that help me g
 ## 📞 Click Below to Connect with Me!   
 
 <p align="left">
-  <a href="mailto:crizojose24-0501@cca.edu.ph" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40"/>
+<a href="mailto:crizojose24-0501@cca.edu.ph" target="_blank">
+   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://www.facebook.com/rizojose.1214" target="_blank">
