@@ -42,7 +42,7 @@ Company X aims to derive actionable insights from the "UnclenedDSJobs" dataset s
 
 - Insert relevant screenshots.
 
-  ![Screenshot](2.png)
+![Screenshot](2.png)
 
 ## Final Output
 
