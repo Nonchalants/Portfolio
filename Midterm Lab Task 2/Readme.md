@@ -36,7 +36,7 @@ Company X aims to derive actionable insights from the "UnclenedDSJobs" dataset s
   
 - *After Cleaning*: Insert cleaned dataset screenshot.
 
-![Screenshot](images/RAw%20data.png)
+![Screenshot](images/sal role 1.png)
 
 ## Dependencies and References
 
