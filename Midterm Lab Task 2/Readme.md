@@ -44,7 +44,7 @@ Company X aims to derive actionable insights from the "UnclenedDSJobs" dataset s
   
 <div align="left">
 <img src="./Images/cleaned1.png" alt="First Image" width="250" height="200" style="margin-right: 10px;">
-<img src="./Images/cleaned2.png" alt="Second Image" width="250" height="200" style="margin-right: 10px;">
+<img src="./Images/cleaned%202.png" alt="Second Image" width="250" height="200" style="margin-right: 10px;">
 <img src="./Images/cleaned3.png" alt="Third Image" width="250" height="200">
 </div>
 
