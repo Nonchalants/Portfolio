@@ -1,4 +1,4 @@
-# Midterm Lab Project: Data Cleaning and Transformation Using Power Query Editor
+use# Midterm Lab Project: Data Cleaning and Transformation Using Power Query Editor
 
 ## Overview
 
@@ -48,7 +48,7 @@ Or, if the Markdown file is inside the Midterm Lab Task 2 folder, adjust it like
 
 - *After Cleaning*: Insert cleaned dataset screenshot.
 
-![Screenshot](./Images/2.png)
+photo
 
 Try these and let me know if the image shows up!
 
@@ -62,8 +62,10 @@ Try these and let me know if the image shows up!
 ## Final Output
 
 - Insert screenshots of final queries.
-
- ![Screenshot](3.png)
+![Screenshot](./Midterm%20Lab%20Task%202/Images/2.png). 
+![Screenshot](./Midterm%20Lab%20Task%202/Images/2.png). 
+![Screenshot](./Midterm%20Lab%20Task%202/Images/3.png). 
+![Screenshot](./Midterm%20Lab%20Task%202/Images/4.png). 
 
 ### Physical Data Model
 
