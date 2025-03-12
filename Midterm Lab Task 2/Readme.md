@@ -32,14 +32,13 @@ Company X aims to derive actionable insights from the "UnclenedDSJobs" dataset s
 
 - *Before Cleaning*: Insert uncleaned dataset screenshot.
 
-<div align="left">
-<img src="./Images/raw.png" alt="First Image" width="250" height="200" style="margin-right: 10px;">
-<img src="./Images/raw2.png" alt="Second Image" width="250" height="200" style="margin-right: 10px;">
-<img src="./Images/raw3.png" alt="Third Image" width="250" height="200">
+<div style="display: flex; gap: 10px;">
+    <img src="./Images/raw.png" alt="First Image" width="250" height="200">
+    <img src="./Images/raw2.png" alt="Second Image" width="250" height="200">
+    <img src="./Images/raw3.png" alt="Third Image" width="250" height="200">
 </div>
 
 
-  
 - *After Cleaning*: Insert cleaned dataset screenshot.
   
 <div align="left">
