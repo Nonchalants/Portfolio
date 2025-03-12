@@ -1,4 +1,4 @@
-use# Midterm Lab Project: Data Cleaning and Transformation Using Power Query Editor
+# Midterm Lab Project: Data Cleaning and Transformation Using Power Query Editor
 
 ## Overview
 
