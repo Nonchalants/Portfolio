@@ -61,11 +61,17 @@ Try these and let me know if the image shows up!
 
 ## Final Output
 
-- Insert screenshots of final queries.
-![Screenshot](./Midterm%20Lab%20Task%202/Images/2.png). 
-![Screenshot](./Midterm%20Lab%20Task%202/Images/2.png). 
-![Screenshot](./Midterm%20Lab%20Task%202/Images/3.png). 
-![Screenshot](./Midterm%20Lab%20Task%202/Images/4.png). 
+<div align="left">
+    <img src="./Images/sal%20role%201.png" alt="Salary Role Screenshot" width="250" height="200" style="margin-right: 10px;">
+    <img src="./Images/2.png" alt="Cleaned Dataset" width="250" height="200">
+</div>
+
+<br>
+
+<div align="left">
+    <img src="./Images/3.png" alt="Query Result 1" width="250" height="200" style="margin-right: 10px;">
+    <img src="./Images/4.png" alt="Query Result 2" width="250" height="200">
+</div>
 
 ### Physical Data Model
 
