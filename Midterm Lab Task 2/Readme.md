@@ -32,11 +32,21 @@ Company X aims to derive actionable insights from the "UnclenedDSJobs" dataset s
 
 - *Before Cleaning*: Insert uncleaned dataset screenshot.
 
-[Download Dataset](https://drive.google.com/uc?export=download&id=14Q4Hut6UCuZtrU8rXWle-qcv_Y9yqUE3)
+<div align="left">
+<img src="./Images/raw.png" alt="First Image" width="250" height="200" style="margin-right: 10px;">
+<img src="./Images/raw2.png" alt="Second Image" width="250" height="200" style="margin-right: 10px;">
+<img src="./Images/raw3.png" alt="Third Image" width="250" height="200">
+</div>
+
+
   
 - *After Cleaning*: Insert cleaned dataset screenshot.
-
-![Screenshot](Midterm%20Lab%20Task%202/Images/2.png)
+  
+<div align="left">
+<img src="./Images/raw.png" alt="First Image" width="250" height="200" style="margin-right: 10px;">
+<img src="./Images/raw2.png" alt="Second Image" width="250" height="200" style="margin-right: 10px;">
+<img src="./Images/raw3.png" alt="Third Image" width="250" height="200">
+</div>
 
 If this still doesn't work, try using a relative path like this (assuming the Markdown file is in the root directory of your project):
 
