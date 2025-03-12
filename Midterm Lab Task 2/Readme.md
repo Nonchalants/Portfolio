@@ -43,9 +43,9 @@ Company X aims to derive actionable insights from the "UnclenedDSJobs" dataset s
 - *After Cleaning*: Insert cleaned dataset screenshot.
   
 <div align="left">
-<img src="./Images/raw.png" alt="First Image" width="250" height="200" style="margin-right: 10px;">
-<img src="./Images/raw2.png" alt="Second Image" width="250" height="200" style="margin-right: 10px;">
-<img src="./Images/raw3.png" alt="Third Image" width="250" height="200">
+<img src="./Images/Cleaned1.png" alt="First Image" width="250" height="200" style="margin-right: 10px;">
+<img src="./Images/Cleaned2" alt="Second Image" width="250" height="200" style="margin-right: 10px;">
+<img src="./Images/Cleaned3.png" alt="Third Image" width="250" height="200">
 </div>
 
 If this still doesn't work, try using a relative path like this (assuming the Markdown file is in the root directory of your project):
