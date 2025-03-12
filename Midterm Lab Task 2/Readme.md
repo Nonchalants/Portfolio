@@ -67,7 +67,9 @@ Try these and let me know if the image shows up!
 
 - Insert relevant screenshots.
 
-![Screenshot](2.png)
+<div align="left">
+    <img src="./Images/sal%20role%201.png" alt="Salary Role Screenshot" width="250" height="200" style="margin-right: 10px;">
+</div>
 
 ## Final Output
 
