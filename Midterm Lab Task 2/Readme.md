@@ -48,27 +48,10 @@ Company X aims to derive actionable insights from the "UnclenedDSJobs" dataset s
 <img src="./Images/cleaned3.png" alt="Third Image" width="250" height="200">
 </div>
 
-If this still doesn't work, try using a relative path like this (assuming the Markdown file is in the root directory of your project):
-
-- *After Cleaning*: Insert cleaned dataset screenshot.
-
-![Screenshot](./Midterm%20Lab%20Task%202/Images/2.png)
-
-Or, if the Markdown file is inside the Midterm Lab Task 2 folder, adjust it like this:
-
-- *After Cleaning*: Insert cleaned dataset screenshot.
-
-photo
-
-Try these and let me know if the image shows up!
-
-
 ## Dependencies and References
-
 - Insert relevant screenshots.
-
 <div align="left">
-    <img src="./Images/sal%20role%201.png" alt="Salary Role Screenshot" width="250" height="200" style="margin-right: 10px;">
+    <img src="./Images/EDM%20Lab2%20Queries%20Dependencies.png" alt="Salary Role Screenshot" width="250" height="200" style="margin-right: 10px;">
 </div>
 
 ## Final Output
@@ -95,10 +78,4 @@ This project cleans and transforms the dataset to reveal insights into salary tr
 
 ---
 
-## Quick Instructions
 
-1. Open Power Query Editor.
-2. Follow the data cleaning and transformation steps.
-3. Validate results by comparing with final output screenshots.
-
-**Note**: Replace placeholders with actual images.
