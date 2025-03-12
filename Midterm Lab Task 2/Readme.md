@@ -36,7 +36,22 @@ Company X aims to derive actionable insights from the "UnclenedDSJobs" dataset s
   
 - *After Cleaning*: Insert cleaned dataset screenshot.
 
-![Screenshot](images/sal%20role%201.png)
+![Screenshot](Midterm%20Lab%20Task%202/Images/2.png)
+
+If this still doesn't work, try using a relative path like this (assuming the Markdown file is in the root directory of your project):
+
+- *After Cleaning*: Insert cleaned dataset screenshot.
+
+![Screenshot](./Midterm%20Lab%20Task%202/Images/2.png)
+
+Or, if the Markdown file is inside the Midterm Lab Task 2 folder, adjust it like this:
+
+- *After Cleaning*: Insert cleaned dataset screenshot.
+
+![Screenshot](./Images/2.png)
+
+Try these and let me know if the image shows up!
+
 
 ## Dependencies and References
 
