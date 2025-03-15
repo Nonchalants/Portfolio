@@ -46,6 +46,7 @@ I am always ready to **listen, support**, and discover new skills that help me g
 
 **Midterm Lab Task 2:** [📂 Data Cleaning and Transformation Using Power Query Editor](https://github.com/Nonchalants/Portfolio/tree/main/Midterm%20Lab%20Task%202#readme)
 
+**Midterm Lab Task 2:** [📂 Data Cleaning and Transformation Using Power Query Editor](https://github.com/Nonchalants/Portfolio/tree/main/Midterm%20Lab%20Task%202#readme)
 Coming Soon...🔥  
 
 <img src="images/thoughtworks-gif_dribbble.gif" alt="Typing Man" style="width: 300px; border: 3px solid black; border-radius: 10px;">  
