@@ -44,9 +44,9 @@ I am always ready to **listen, support**, and discover new skills that help me g
 ## 💻 My Projects  
 **Midterm Lab Task 1:** [📂 Data Cleaning and Preparation using Excel](https://github.com/Nonchalants/Portfolio/tree/main/MIDTERM%20LAB%20TASK1#readme). 
 
-**Midterm Lab Task 2:** [📂 Data Cleaning and Transformation Using Power Query Editor](https://github.com/Nonchalants/Portfolio/tree/main/Midterm%20Lab%20Task%202#readme)
+c
 
-**Midterm Lab Task 3:** [📂 Creating PIVOT TABLE and DASHBOARD](https://github.com/Nonchalants/Portfolio/tree/main/MIDTERM%20LAB%20Task%203#readme)
+**Midterm Lab Task 3:** [📂 Creating PIVOT TABLE and DASHBOARD](https://github.com/Nonchalants/Portfolio/tree/main/MIDTERM%20LAB%20TASK%203#readme)
 
 Coming Soon...🔥  
 
