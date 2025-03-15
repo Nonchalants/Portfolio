@@ -1,6 +1,7 @@
-# Midterm Lab Task 3. Creating PIVOT TABLE and DASHBOARD
+# Midterm Lab Task 3 Creating PIVOT TABLE and DASHBOARD
 ## Using the Worksheet on Uncleaned DS Jobs and the transform tables
 -  Sal By Role, Sal By State, Sal by Size
+  ---
 -  ## Design your DASHBOARD that would highlight the ff:
 -  State with the most Number of Data Science
 -  Job Role with the Highest Average Salary
@@ -13,3 +14,4 @@
 - The Slicers should make your Dashboard interactive
 
 ### Here is the Final Output
+---
