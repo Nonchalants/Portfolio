@@ -21,6 +21,7 @@ CREATE TABLE employees (
 
 ![Employees Table Structure](IMAGESS/Screenshot%202025-04-11%20200017.png)
 
+---
 
 ### 🏢 Departments Table
 
@@ -36,6 +37,7 @@ CREATE TABLE departments (
 ### 🖼️ DEPARTMENTS Table Structure
 ![Employees Table Structure](IMAGESS/Screenshot%202025-04-11%20200102.png)
 
+---
 
 ### 🧾Employee_Departments Table
 
@@ -53,6 +55,7 @@ CREATE TABLE employee_departments (
 ### 🖼️ EMPLOYEES_DEPARTMENTS Table Structure
 ![Employees Table Structure](IMAGESS/Screenshot%202025-04-11%20200145.png)
 
+---
 
 ### 🛠️ Task 4: Employee_Projects Table
 This table keeps track of projects assigned to each employee.
@@ -65,5 +68,21 @@ CREATE TABLE employee_projects (
 );
 ```
 
-### 🖼️ Employee_Projects Table Structure
-![Employees Table Structure](IMAGESS/Screenshot%202025-04-11%20200145.png)
+### 🖼️ EMPLOYEES_PROJECTS Table Structure
+![Employees Table Structure](IMAGESS/Screenshot%202025-04-11%20200213.png)
+
+---
+
+### 👔 Task 5: Managers Table
+This table stores manager information, linking them back to employee records.
+
+```sql
+CREATE TABLE managers (
+    manager_id INT AUTO_INCREMENT PRIMARY KEY,
+    employee_id INT,
+    FOREIGN KEY (employee_id) REFERENCES employees(employee_id)
+);
+```
+
+### 🖼️ MANAGERS Table Structure
+![Employees Table Structure](IMAGESS/Screenshot%202025-04-11%20200244.png)
