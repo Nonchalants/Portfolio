@@ -37,7 +37,7 @@ CREATE TABLE departments (
 ![Employees Table Structure](IMAGESS/Screenshot%202025-04-11%20200102.png)
 
 
-###🧾 Employee_Departments Table
+### 🧾Employee_Departments Table
 
 This table links employees to their departments, establishing many-to-many relationships.
 
@@ -51,3 +51,19 @@ CREATE TABLE employee_departments (
 ```
 
 ### 🖼️ EMPLOYEES_DEPARTMENTS Table Structure
+![Employees Table Structure](IMAGESS/Screenshot%202025-04-11%20200145.png)
+
+
+### 🛠️ Task 4: Employee_Projects Table
+This table keeps track of projects assigned to each employee.
+
+```sql
+CREATE TABLE employee_projects (
+    employee_id INT,
+    project_name VARCHAR(255) NOT NULL,
+    FOREIGN KEY (employee_id) REFERENCES employees(employee_id)
+);
+```
+
+### 🖼️ Employee_Projects Table Structure
+![Employees Table Structure](IMAGESS/Screenshot%202025-04-11%20200145.png)
