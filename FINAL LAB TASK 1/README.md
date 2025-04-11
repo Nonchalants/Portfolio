@@ -16,4 +16,18 @@ CREATE TABLE employees (
     manager_id INT,
     FOREIGN KEY (manager_id) REFERENCES employees(employee_id)
 );
+```
+### 🖼️ Employees Table Structure
 
+![Employees Table Structure](IMAGESS/Screenshot%202025-04-11%20200017.png)
+
+
+### 🏢 Task 2: Departments Table
+
+```sql
+CREATE TABLE departments (
+    department_id INT AUTO_INCREMENT PRIMARY KEY,
+    department_name VARCHAR(255) NOT NULL
+);
+```
+![Employees Table Structure](IMAGESS/Screenshot%202025-04-11%20200017.png)
