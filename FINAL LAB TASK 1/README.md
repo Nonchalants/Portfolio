@@ -5,7 +5,7 @@ It includes employees, departments, managers, and their relationships with proje
 
 ## 🧱 Database: `company_db`
 
-### 1. 🧑‍💼 `employees`
+### 🧑‍💼 `employees`
 
 This table stores employee records and their managers.
 
@@ -17,12 +17,14 @@ CREATE TABLE employees (
     FOREIGN KEY (manager_id) REFERENCES employees(employee_id)
 );
 ```
-### 🖼️ Employees Table Structure
+### 🖼️ EMPLOYEES Table Structure
 
 ![Employees Table Structure](IMAGESS/Screenshot%202025-04-11%20200017.png)
 
 
-### 🏢 Task 2: Departments Table
+### 🏢 Departments Table
+
+This table contains information about each department within the company.
 
 ```sql
 CREATE TABLE departments (
@@ -30,4 +32,22 @@ CREATE TABLE departments (
     department_name VARCHAR(255) NOT NULL
 );
 ```
-![Employees Table Structure](IMAGESS/Screenshot%202025-04-11%20200017.png)
+
+### 🖼️ DEPARTMENTS Table Structure
+![Employees Table Structure](IMAGESS/Screenshot%202025-04-11%20200102.png)
+
+
+###🧾 Employee_Departments Table
+
+This table links employees to their departments, establishing many-to-many relationships.
+
+```sql
+CREATE TABLE employee_departments (
+    employee_id INT,
+    department_id INT,
+    FOREIGN KEY (employee_id) REFERENCES employees(employee_id),
+    FOREIGN KEY (department_id) REFERENCES departments(department_id)
+);
+```
+
+### 🖼️ EMPLOYEES_DEPARTMENTS Table Structure
