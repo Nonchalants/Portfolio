@@ -3,7 +3,10 @@ This project demonstrates the creation and manipulation of a basic products tabl
 It includes defining constraints, altering table structures, inserting records, and reflecting changes in structure.
 
 💽 Database: Product_Info_db
+
+
+
+```sql
 CREATE DATABASE product_db;
 USE product_db;
-
-
+```
