@@ -10,7 +10,7 @@ USE product_db;
 ```
 ---
 
-📦 Table: products
+## 📦 Table: products
 This table holds product information including ID, name, and price.
 ---
 ```sql
@@ -26,10 +26,11 @@ ALTER TABLE products
 ADD CONSTRAINT CHECK (price > 0);
 ```
 ---
-![Screenshot](PICS/student%20table.png)
+### 🖼️ PRODUCTS Table Structure (Initial)
 ---
-🖼️ PRODUCTS Table Structure (Initial)
+![Screenshot](image/product%20db.png)
 ---
+
 📝 Insert Sample Data 
 ```sql
 INSERT INTO products (product_name, price) VALUES
@@ -43,23 +44,23 @@ INSERT INTO products (product_name, price) VALUES
 ```
 ---
 
-🔍 Select All Products 
+## 🔍 Select All Products 
 ```sql
 SELECT * FROM products;
 ```
 ---
-🖼️ PRODUCTS Data Output
-![Screenshot](PICS/student%20table.png)
+### 🖼️ PRODUCTS Data Output
+![Screenshot](image/producs%20price.png)
 
-🔧 Modify Column Length 
+## 🔧 Modify Column Length 
 ```sql
 ALTER TABLE products 
 MODIFY COLUMN product_name VARCHAR(120);
 ```
-🖼️ Modified PRODUCTS Table Structure
-![Screenshot](PICS/student%20table.png)
+### 🖼️ Modified PRODUCTS Table Structure
+![Screenshot](image/product%20modified.png)
 
 ---
-🗺️ ER Diagram / Relational Schema
-This ER diagram shows the products entity and its structure.
-![Screenshot](PICS/student%20table.png)
+## 🗺️ ER Diagram / Relational Schema
+This ER diagram shows the products entity and its structure.  
+![Screenshot](image/eer%20product.png)
