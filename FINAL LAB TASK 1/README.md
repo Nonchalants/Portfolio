@@ -90,7 +90,8 @@ CREATE TABLE managers (
 ## EER DIAGRAM
 ![Screenshot](IMAGESS/eer%20company.png)
 
-
+## 💾 SQL File Download  
+📥 [Click here to open](FINAL%20LAB%20TASK%202/PICS/student_DB.sql)
 
 
 
