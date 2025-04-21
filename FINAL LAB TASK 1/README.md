@@ -91,7 +91,7 @@ CREATE TABLE managers (
 ![Screenshot](IMAGESS/eer%20company.png)
 
 ## 💾 SQL File Download  
-📥 [Click here to open](FINAL%20LAB%20TASK%202/PICS/student_DB.sql)
+📥 [Click here to open](FINAL%20LAB%20TASK%201/IMAGESS/Company_db.sql)
 
 
 
