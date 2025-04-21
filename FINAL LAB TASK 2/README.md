@@ -1,4 +1,4 @@
-# Transforming ER Model to Relational Tables
+# 🔄Transforming ER Model to Relational Tables
 
 ## Student Assignment Submissions Database Schema
 This project represents a relational schema for managing student assignment submissions.
