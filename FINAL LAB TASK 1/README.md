@@ -90,8 +90,6 @@ CREATE TABLE managers (
 ## EER DIAGRAM
 ![Screenshot](IMAGESS/eer%20company.png)
 
-## 💾 SQL File Download  
-📥 [Click here to download](IMAGESS/Company_db.sql)
 
 
 
