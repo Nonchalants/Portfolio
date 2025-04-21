@@ -88,3 +88,15 @@ CREATE TABLE managers (
 ![Employees Table Structure](IMAGESS/Screenshot%202025-04-11%20200244.png)
 
 ## EER DIAGRAM
+![Screenshot](IMAGESS/eer%20company.png)
+
+
+
+
+
+
+
+
+
+
+
