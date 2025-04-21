@@ -3,7 +3,7 @@ This project contains a basic relational database design for managing employee-r
 It includes employees, departments, managers, and their relationships with projects and departments.
 ---
 
-## 🧱 Database: `company_db`
+## 🧱 Database: `Company_Info_db`
 
 ### 🧑‍💼 `employees`
 
