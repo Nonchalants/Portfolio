@@ -7,7 +7,7 @@ It includes students, assignments, and their submission records.
 ![Screenshot](PICS/ERD%20lab.png)
 
 
-## 🧱 Database: student_task_db
+## 🧱 Database: Student_Info_db
 ---
 ## 👨‍🎓 student_tbl
 This table stores student records with a unique username.
