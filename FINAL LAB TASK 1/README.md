@@ -86,3 +86,5 @@ CREATE TABLE managers (
 
 ### 🖼️ MANAGERS Table Structure
 ![Employees Table Structure](IMAGESS/Screenshot%202025-04-11%20200244.png)
+
+## EER DIAGRAM
