@@ -1,4 +1,4 @@
-# Finals Lab Task 2. Transforming ER Model to Relational Tables
+# Transforming ER Model to Relational Tables
 
 ## Student Assignment Submissions Database Schema
 This project represents a relational schema for managing student assignment submissions.
@@ -61,7 +61,5 @@ Visual representation of the table relationships.
 ![Screenshot](PICS/eer%20student%20db.png)
 
 ---
-## 💾 SQL File Download  
-📥 [Click here to open](FINAL%20LAB%20TASK%202/PICS/student_DB.sql)
 
 
