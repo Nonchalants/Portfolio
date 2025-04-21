@@ -17,7 +17,7 @@ CREATE TABLE student_tbl (
     username VARCHAR(50) PRIMARY KEY
 );
 ```
-### 🖼️ STUDENT_TBL Table Structure
+## 🖼️ STUDENT_TBL Table Structure
 ![Screenshot](PICS/student%20table.png)
 
 
@@ -31,7 +31,7 @@ CREATE TABLE assignment_tbl (
     url VARCHAR(255)
 );
 ```
-### 🖼️ ASSIGNMENT_TBL Table Structure
+## 🖼️ ASSIGNMENT_TBL Table Structure
 ![Screenshot](PICS/assignment%20table.png)
 
 ---
@@ -50,16 +50,18 @@ CREATE TABLE submission_tbl (
     CONSTRAINT fk_shortname FOREIGN KEY(shortname) REFERENCES assignment_tbl(shortname)
 );
 ```
-### 🖼️ SUBMISSION_TBL Table Structure
+## 🖼️ SUBMISSION_TBL Table Structure
 ![Screenshot](PICS/submmision%20table.png)
 
 
 
-##🗂️ EER Diagram
-Visual representation of the table relationships.
+# 🗂️ EER Diagram
+Visual representation of the table relationships.  
+
 ![Screenshot](PICS/eer%20student%20db.png)
 
 ---
 ## 💾 SQL File Download  
-📥 [Click here to download `student_task_db.sql`]()
+📥 [Click here to open](FINAL%20LAB%20TASK%202/PICS/student_DB.sql)
+
 
