@@ -4,7 +4,7 @@
 This project represents a relational schema for managing student assignment submissions.
 It includes students, assignments, and their submission records.
 
-![Screenshot](IMAGESS/eer%20company.png)
+![Screenshot](PICS/ERD%20lab.png)
 
 
 ## 🧱 Database: student_task_db
@@ -18,7 +18,7 @@ CREATE TABLE student_tbl (
 );
 ```
 ### 🖼️ STUDENT_TBL Table Structure
-![Screenshot](IMAGESS/eer%20company.png)
+![Screenshot](PICS/student%20table.png)
 
 
 ---
@@ -32,7 +32,7 @@ CREATE TABLE assignment_tbl (
 );
 ```
 ### 🖼️ ASSIGNMENT_TBL Table Structure
-![Screenshot](IMAGESS/eer%20company.png)
+![Screenshot](PICS/assignment%20table.png)
 
 ---
 ## 📤 submission_tbl Table
@@ -51,14 +51,15 @@ CREATE TABLE submission_tbl (
 );
 ```
 ### 🖼️ SUBMISSION_TBL Table Structure
-![Screenshot](IMAGESS/eer%20company.png)
+![Screenshot](PICS/submmision%20table.png)
 
 
 
 ##🗂️ EER Diagram
 Visual representation of the table relationships.
-![Screenshot](IMAGESS/eer%20company.png)
+![Screenshot](PICS/eer%20student%20db.png)
 
 ---
-💾 SQL File Download
-📥 Click here to download student_task_db.sql
+## 💾 SQL File Download  
+📥 [Click here to download `student_task_db.sql`]()
+
