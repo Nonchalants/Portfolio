@@ -5,7 +5,8 @@ This project contains a basic relational database design for managing course-rel
 
 ### 📚 courses
 This table stores details about each course, including the course name, category, enrollment limits, and current number of students enrolled.
-''' sql
+
+```sql
 CREATE TABLE courses (
     id INT AUTO_INCREMENT PRIMARY KEY,
     course_name VARCHAR(255) NOT NULL,
@@ -13,3 +14,7 @@ CREATE TABLE courses (
     enrollment_limit INT NOT NULL,
     students_enrolled INT NOT NULL
 );
+```
+---
+## 🔄 Insert Data
+Here’s how the data is inserted into the courses table:
