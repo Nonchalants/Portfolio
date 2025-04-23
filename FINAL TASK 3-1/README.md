@@ -18,3 +18,9 @@ CREATE TABLE courses (
 ---
 ## 🔄 Insert Data
 Here’s how the data is inserted into the courses table:
+![IMAGE1](IMAGESS/data_insertion_step1.png)
+![Image 2](IMAGESS/data_insertion_step2.png)
+![Image 3](IMAGESS/data_insertion_step3.png)
+![Image 4](IMAGESS/data_insertion_step4.png)
+![Image 5](IMAGESS/data_insertion_step5.png)
+![Image 6](IMAGESS/data_insertion_step6.png)
