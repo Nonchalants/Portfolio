@@ -3,7 +3,7 @@ This project contains a basic relational database design for managing course-rel
 ---
 ## 🧱 Database: course_db
 
-### 📚 courses
+## 📚 courses
 This table stores details about each course, including the course name, category, enrollment limits, and current number of students enrolled.
 
 ```sql
@@ -17,10 +17,58 @@ CREATE TABLE courses (
 ```
 ---
 ## 🔄 Insert Data
-Here’s how the data is inserted into the courses table:
-![IMAGE1](IMAGESS/data_insertion_step1.png)
-![Image 2](IMAGESS/data_insertion_step2.png)
-![Image 3](IMAGESS/data_insertion_step3.png)
-![Image 4](IMAGESS/data_insertion_step4.png)
-![Image 5](IMAGESS/data_insertion_step5.png)
-![Image 6](IMAGESS/data_insertion_step6.png)
+Here’s how the data is inserted into the courses table:  
+---
+
+---
+<img src="IMAGE1/output1.png" width="400px">
+<img src="IMAGE1/output%202.png" width="400px">
+<img src="IMAGE1/output%203.png" width="400px">
+<img src="IMAGE1/output%204.png" width="400px">
+<img src="IMAGE1/output%205.png" width="400px">
+<img src="IMAGE1/output6.png" width="400px">
+---
+
+## 🧾 Queries 
+Here are some queries you can run to interact with the database:
+List courses with enrollment less than the limit:
+---
+## TASK 1
+List courses with enrollment less than the limit:
+```sql
+SELECT * FROM courses WHERE students_enrolled < enrollment_limit;
+```
+<img src="IMAGE1/task%201%20output.png" width="400px">
+
+## TASK 2
+Group courses by category and count total students enrolled:
+```sql
+SELECT category, SUM(students_enrolled) AS total_students_enrolled FROM courses GROUP BY category;
+```
+<img src="IMAGE1/TASK%202%20output.png" width="400px">
+
+
+## TASK 3
+List courses that have reached the enrollment limit:
+```sql
+SELECT * FROM courses WHERE students_enrolled = enrollment_limit;
+```
+<img src="IMAGE1/task%203%20output.png" width="400px">
+
+
+## TASK 4
+Get the total number of students across all courses:
+```sql
+SELECT SUM(students_enrolled) AS total_students FROM courses;
+```
+<img src="IMAGE1/task%204%20output.png" width="400px">
+
+
+## TASK 5
+List courses in alphabetical order by course name:
+```sql
+SELECT * FROM courses ORDER BY course_name ASC;
+```
+<img src="IMAGE1/task%205%20output.png" width="400px">
+
+
