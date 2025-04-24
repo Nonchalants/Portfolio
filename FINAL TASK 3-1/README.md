@@ -21,26 +21,29 @@ Here’s how the data is inserted into the courses table:
 ---
 
 ---
-<img src="IMAGE1/output1.png" width="400px">
-<img src="IMAGE1/output%202.png" width="400px">
-<img src="IMAGE1/output%203.png" width="400px">
-<img src="IMAGE1/output%204.png" width="400px">
-<img src="IMAGE1/output%205.png" width="400px">
-<img src="IMAGE1/output6.png" width="400px">
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
+  <img src="IMAGE1/output1.png" width="250px" height="150px" style="margin-bottom: 10px;">
+  <img src="IMAGE1/output%202.png" width="250px" height="150px" style="margin-bottom: 10px;">
+  <img src="IMAGE1/output%203.png" width="250px" height="150px" style="margin-bottom: 10px;">
+  <img src="IMAGE1/output%204.png" width="250px" height="150px" style="margin-bottom: 10px;">
+  <img src="IMAGE1/output%205.png" width="250px" height="150px" style="margin-bottom: 10px;">
+  <img src="IMAGE1/output6.png" width="250px" height="150px" style="margin-bottom: 10px;">
+</div>
+
 ---
 
 ## 🧾 Queries 
 Here are some queries you can run to interact with the database:
 List courses with enrollment less than the limit:
 ---
-## TASK 1
+## 🔍TASK 1
 List courses with enrollment less than the limit:
 ```sql
 SELECT * FROM courses WHERE students_enrolled < enrollment_limit;
 ```
 <img src="IMAGE1/task%201%20output.png" width="400px">
 
-## TASK 2
+## 🔍TASK 2
 Group courses by category and count total students enrolled:
 ```sql
 SELECT category, SUM(students_enrolled) AS total_students_enrolled FROM courses GROUP BY category;
@@ -48,7 +51,7 @@ SELECT category, SUM(students_enrolled) AS total_students_enrolled FROM courses 
 <img src="IMAGE1/TASK%202%20output.png" width="400px">
 
 
-## TASK 3
+## 🔍TASK 3
 List courses that have reached the enrollment limit:
 ```sql
 SELECT * FROM courses WHERE students_enrolled = enrollment_limit;
@@ -56,7 +59,7 @@ SELECT * FROM courses WHERE students_enrolled = enrollment_limit;
 <img src="IMAGE1/task%203%20output.png" width="400px">
 
 
-## TASK 4
+## 🔍TASK 4
 Get the total number of students across all courses:
 ```sql
 SELECT SUM(students_enrolled) AS total_students FROM courses;
@@ -64,7 +67,7 @@ SELECT SUM(students_enrolled) AS total_students FROM courses;
 <img src="IMAGE1/task%204%20output.png" width="400px">
 
 
-## TASK 5
+## 🔍TASK 5
 List courses in alphabetical order by course name:
 ```sql
 SELECT * FROM courses ORDER BY course_name ASC;
