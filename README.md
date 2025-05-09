@@ -63,35 +63,24 @@ Coming Soon...🔥
 
 ## ❤️ I Love:
   
-☕ Coffee – it's my fuel for productivity!  
-
-🎮 Playing video games and grinding for hours.  
-
-🎧 Listening to music while working     
-
-🌙 Late-night coding when the world is silent.  
-
-🍕 Pizza – because it's the ultimate developer snack!  
-
-🚀 Exploring new technologies and building cool projects.  
-
-😂 Sharing memes and funny coding moments. 
+- ☕ Coffee – it's my fuel for productivity!  
+- 🎮 Playing video games and grinding for hours.  
+- 🎧 Listening to music while working     
+- 🌙 Late-night coding when the world is silent.  
+- 🍕 Pizza – because it's the ultimate developer snack!  
+- 🚀 Exploring new technologies and building cool projects.  
+- 😂 Sharing memes and funny coding moments. 
    
 --- 
 
 ## ⚡ Fun Fact About Me:
 
-💡 I once spent **3 hours debugging**, only to realize it was **a missing semicolon**. 😅  
-
-🖥️ I built my first website using **Notepad** and thought I was a hacker.  
-
-🌙 I do my best coding at **3 AM** when the world is silent!    
-
-🏗️ My code works! But… **I have no idea why.** 🤷‍♂️  
-
-🛑 I was about to **fix a bug**, but then I got **distracted for 3 hours** on YouTube. 😅  
-
-📌 I have **50 browser tabs open**, but I only use **3** of them.       
+- 💡 I once spent **3 hours debugging**, only to realize it was **a missing semicolon**. 😅  
+- 🖥️ I built my first website using **Notepad** and thought I was a hacker.  
+- 🌙 I do my best coding at **3 AM** when the world is silent!    
+- 🏗️ My code works! But… **I have no idea why.** 🤷‍♂️  
+- 🛑 I was about to **fix a bug**, but then I got **distracted for 3 hours** on YouTube. 😅  
+- 📌 I have **50 browser tabs open**, but I only use **3** of them.       
 
  
 --- 
