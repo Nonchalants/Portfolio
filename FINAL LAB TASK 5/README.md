@@ -91,7 +91,7 @@ FROM Products p
 JOIN vendors v ON p.V_CODE = v.V_CODE
 WHERE YEAR(p.P_INDATE) >= 2002;
 ```
-![Screenshot](image/ven.png)
+![Screenshot](image/10.png)
 
 ## 📄 view_products_price_range
 Displays products priced between 100 and 150.
@@ -101,7 +101,7 @@ SELECT * FROM Products
 WHERE P_PRICE BETWEEN 100 AND 150;
 ```
 
-![Screenshot](image/ven.png)
+![Screenshot](image/11.png)
 
 ## 📄 view_total_price_selected_vendors
 Shows total price (onhand × price) for selected vendors.
@@ -117,7 +117,7 @@ JOIN vendors v ON p.V_CODE = v.V_CODE
 WHERE p.V_CODE IN (21344, 23119, 24288);
 ```
 
-![Screenshot](image/vend.png)
+![Screenshot](image/12.png)
 
 ## 🛠️ Stored Procedure
 ###🔧 update_vendor_name
