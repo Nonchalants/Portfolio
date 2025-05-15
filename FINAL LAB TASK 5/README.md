@@ -24,6 +24,8 @@ CREATE TABLE Products (
     V_CODE INT
 );
 ```
+![Screenshot](image/describe%20product.png)
+
 
 ## 📦 Table: vendors
 ```sql
@@ -37,6 +39,8 @@ CREATE TABLE vendors (
     V_ORDER VARCHAR(1)
 );
 ```
+![Screenshot](image/vendors.png)
+
 
 ## 📦 Table: vendorsACode
 ```sql
@@ -46,6 +50,8 @@ CREATE TABLE vendorsACode (
 );
 
 ```
+
+![Screenshot](image/vendorsacode.png)
 
 ## 🔗 Constraints & Keys  
 ### ✅ Primary Keys on all tables
@@ -85,6 +91,8 @@ FROM Products p
 JOIN vendors v ON p.V_CODE = v.V_CODE
 WHERE YEAR(p.P_INDATE) >= 2002;
 ```
+![Screenshot](image/ven.png)
+
 ## 📄 view_products_price_range
 Displays products priced between 100 and 150.
 ```sql
@@ -92,6 +100,8 @@ CREATE VIEW view_products_price_range AS
 SELECT * FROM Products
 WHERE P_PRICE BETWEEN 100 AND 150;
 ```
+
+![Screenshot](image/ven.png)
 
 ## 📄 view_total_price_selected_vendors
 Shows total price (onhand × price) for selected vendors.
@@ -106,6 +116,8 @@ FROM Products p
 JOIN vendors v ON p.V_CODE = v.V_CODE
 WHERE p.V_CODE IN (21344, 23119, 24288);
 ```
+
+![Screenshot](image/vend.png)
 
 ## 🛠️ Stored Procedure
 ###🔧 update_vendor_name
