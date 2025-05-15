@@ -117,7 +117,7 @@ JOIN vendors v ON p.V_CODE = v.V_CODE
 WHERE p.V_CODE IN (21344, 23119, 24288);
 ```
 
-![Screenshot](image/12.png)
+![Screenshot](image/13.png)
 
 ## 🛠️ Stored Procedure
 ###🔧 update_vendor_name
@@ -137,6 +137,9 @@ SET SQL_SAFE_UPDATES = 0;
 CALL update_vendor_name('Bryson,Inc.');
 SET SQL_SAFE_UPDATES = 1;
 ```
+
+### 🖼️ Proof of Change:  
+![Screenshot](image/14.png)
 
 ## 🧠 SQL Function
 ### 📦 get_products_by_vendor
