@@ -54,7 +54,8 @@ I am always ready to **listen, support**, and discover new skills that help me g
 **FINAL LAB TASK 1:** [📂 Database Creation](https://github.com/Nonchalants/Portfolio/tree/main/FINAL%20LAB%20TASK%201#readme)  
 **FINAL LAB TASK 2:** [📂 Transforming ER Model](https://github.com/Nonchalants/Portfolio/tree/main/FINAL%20LAB%20TASK%202#readme)  
 **FINAL LAB TASK 3:** [📂 Table Manipulation](https://github.com/Nonchalants/Portfolio/tree/main/FINAL%20LAB%20TASK%203#readme)  
-**FINAL LAB TASK 5:** [📂 Inventory Insights DB](https://github.com/Nonchalants/Portfolio/tree/main/FINAL%20LAB%20TASK%205#readme)   
+**FINAL LAB TASK 5:** [📂 Inventory Insights DB](https://github.com/Nonchalants/Portfolio/tree/main/FINAL%20LAB%20TASK%205#readme)     
+**FINAL LAB TASK 6:** [📂 MongoDB Practice](https://github.com/Nonchalants/Portfolio/tree/main/FINAL%20LAB%20TASK%206#readme)   
 Coming Soon...🔥  
 
 <img src="images/thoughtworks-gif_dribbble.gif" alt="Typing Man" style="width: 300px; border: 3px solid black; border-radius: 10px;">  
